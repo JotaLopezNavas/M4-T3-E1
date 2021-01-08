@@ -16,7 +16,7 @@
 <script>
 import Navbar from "./components/Navbar.vue";
 import PiePag from "./components/PiePag.vue";
-import Transicion from './components/Transicion.vue'
+import Transicion from './components/Transicion.vue';
 import Footer from './components/Footer.vue';
 
 export default {
