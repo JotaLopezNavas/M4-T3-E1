@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
+import Cover from '../views/Cover.vue'
 import Home from '../views/Home.vue'
 import About from '../views/About.vue'
 import Contact from '../views/Contact.vue'
@@ -11,7 +12,12 @@ Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/',
+    path :"/",
+    name:Cover,
+    component:Cover
+  },
+  {
+    path: '/home',
     name: 'Home',
     component: Home
   },
