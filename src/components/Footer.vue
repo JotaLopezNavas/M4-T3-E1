@@ -4,7 +4,7 @@
     NorthSide Youth Soccer League
   </div>
   <div class="card-body">
-    <h5 class="card-title">¡Vamos a jugar!</h5>
+    <h5 class="card-title">Let's play!</h5>
     <Social></Social>
   </div>
   <div class="card-footer text-muted">
