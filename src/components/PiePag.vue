@@ -1,6 +1,6 @@
 <template>
   <div id="PiePag">
-    <b-button v-b-toggle.sidebar-footer><b-icon icon="camera" rotate="45"></b-icon> Momentos</b-button>
+    <b-button v-b-toggle.sidebar-footer variant="success"><b-icon icon="camera" rotate="45"></b-icon> Momentos</b-button>
     <b-sidebar id="sidebar-footer" aria-label="Sidebar with custom footer" no-header shadow>
       <template #footer="{ hide }">
        <div class="d-flex bg-dark text-light align-items-center px-3 py-2">
