@@ -19,6 +19,10 @@
   padding-top: 1.8%;
   padding-bottom: 1.8%; }
 
+html {
+  position: relative;
+  min-height: 100%; }
+
 body {
   padding-left: 1.5%;
   padding-right: 1.5%; }
@@ -28,6 +32,11 @@ body {
     -ms-flex: 0 0 50% !important;
     flex: 0 0 50% !important;
     max-width: 50% !important; } }
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%; }
 
 #home {
   display: flex;
