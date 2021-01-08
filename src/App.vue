@@ -3,9 +3,9 @@
     <header>
       <Navbar></Navbar>
     </header>
-    <body>
+    <div id="cuerpo">
       <Transicion></Transicion>
-    </body>
+    </div>
     <footer>
       <PiePag></PiePag>
       <Footer></Footer>

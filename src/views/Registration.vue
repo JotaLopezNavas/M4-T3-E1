@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="registro">
     <div id="container">
       <b-container class="bv-example-row">
         <div id="pageheader">
