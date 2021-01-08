@@ -19,6 +19,7 @@ import PiePag from "./components/PiePag.vue";
 import Transicion from './components/Transicion.vue';
 import Footer from './components/Footer.vue';
 
+
 export default {
   name: "App",
   components: {
@@ -26,6 +27,7 @@ export default {
     PiePag,
     Transicion,
     Footer,
+   
   },
 };
 </script>

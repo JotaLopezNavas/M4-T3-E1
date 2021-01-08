@@ -1,5 +1,5 @@
 <template >
-    <b-col class="ocultable">
+    <b-col >
             <div>
               <div id="porMes">
                 <b-button @click="showS = !showS" class="mb-2" variant="success">September</b-button>

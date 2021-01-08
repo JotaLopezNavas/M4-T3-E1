@@ -3,7 +3,7 @@
   <div class="card-header">
     NorthSide Youth Soccer League
   </div>
-  <div class="card-body">
+  <div class="card-body" >
     <h5 class="card-title">Let's play!</h5>
     <Social></Social>
   </div>

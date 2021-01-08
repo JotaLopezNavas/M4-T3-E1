@@ -1,6 +1,6 @@
 <template>
 <div id=Navbar>
-  <b-navbar toggleable type="dark" variant="dark">
+  <b-navbar toggleable type="dark" variant="success">
     <b-navbar-brand to="/">NYSL</b-navbar-brand>
 
     <b-navbar-toggle target="navbar-toggle-collapse">
@@ -18,7 +18,7 @@
         <b-nav-item to="/info"><b-icon icon="exclamation-circle-fill"></b-icon> Info</b-nav-item>
         <b-nav-item to="/registration"><b-icon icon="input-cursor-text"></b-icon> Registration</b-nav-item>
         <b-nav-item to="/rules"><b-icon icon="layout-text-sidebar-reverse"></b-icon> Rules</b-nav-item>
-        <b-nav-item to="#" disabled>NorthSide Youth Soccer League</b-nav-item>
+        <!-- <b-nav-item to="#" disabled>NorthSide Youth Soccer League</b-nav-item> -->
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>

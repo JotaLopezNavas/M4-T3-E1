@@ -10,7 +10,9 @@
       </b-col>
     </b-row>
     <b-row>
-      <busqueda> </busqueda>
+      <b-col class="ocultable"> 
+        <busqueda> </busqueda>
+      </b-col>
       <!-- <b-col class="ocultable">
             <div>
               <div id="porMes">
