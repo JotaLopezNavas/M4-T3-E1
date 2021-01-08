@@ -7,9 +7,6 @@
     <h5 class="card-title">Let's play!</h5>
     <Social></Social>
   </div>
-  <div class="card-footer text-muted">
-    7 de enero de 2021
-  </div>
 </div>
 </template>
 
