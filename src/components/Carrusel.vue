@@ -5,7 +5,7 @@
     style="text-shadow: 0px 0px 2px #000"
     fade
     indicators
-    img-width="1024"
+    img-width="960"
     img-height="480"
   >
     <b-carousel-slide
